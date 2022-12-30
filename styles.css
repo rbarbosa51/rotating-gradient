@@ -1,0 +1,8 @@
+:root {
+    --degree: 0;
+  }
+  .box {
+    width: 50vw;
+    height: 50vh;
+    background-image: linear-gradient(var(--degree), rgb(255,0,0), rgb(0,0,255));
+  }
